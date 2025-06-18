@@ -1,4 +1,7 @@
 # Smoothed Particle Hydrodynamics (SPH) Simulation
+
+[🎬 Watch the demo video](https://github.com/llada60/RigidBodySimulation/raw/refs/heads/main/demo.mp4)
+
 ---
 
 **CSC_4IG03_TP** Fundamentals of Computer Graphics, Fall 2024
@@ -18,6 +21,7 @@ Implementation of a Smoothed Particle Hydrodynamics (SPH) simulation using OpenG
 │   ├── main.cpp                        # Implementation of SPH simulation
 │   └── Vector.hpp
 ├── CMakeLists.txt
+├── demo.mp4
 └── README.md                           # This file
 ```
 
